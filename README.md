@@ -6,6 +6,10 @@
 
 The Note_Taker application allows users to enter a note title and note text that they can save and view later.
 
+# ![Screen Shot 2023-04-17 at 10 22 15 PM (2)](https://user-images.githubusercontent.com/61917285/232654245-ca6639f6-10dd-4f9a-9c5d-441d945feb5a.png)
+
+# [Note Taker](https://nameless-refuge-33366.herokuapp.com/)
+
 ## Table of Contents
 
 [Installation](#installation)
